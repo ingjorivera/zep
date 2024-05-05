@@ -73,4 +73,4 @@ networks:
   zep-network:
     driver: bridge
 volumes:
-  zep-db:
+  zep-db1:
